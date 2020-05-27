@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "Y3M2N58M87.com.jimschultz.WhiteBoard",
-                "paths": [ "/tipjar/", "/settings/*"]
+                "paths": [ "*", "/tipjar/", "/settings/*"]
             }
         ]
     }
