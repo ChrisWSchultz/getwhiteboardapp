@@ -42,6 +42,15 @@ This is our very first version of Whiteboard on the App Store. Stay tuned for ma
 
 <br>
 
+## **Version 1.0.21**
+Thanks for using Whiteboard and for all the great feedback and reviews! In this version I worked on addressing some important user feedback and stability improvements. Special thanks to Kim for reporting some critical feedback. Please keep the feedback coming y'all! Enjoy.
+
+Fixed
+* Saving drawings to the photos library when the device has darkMode enabled
+* The clear button was broken for some iOS 12 users
+
+<br>
+
 ## **Version 1.0.20**
 Thanks for using Whiteboard and for all the great feedback and reviews! Please keep the feedback coming y'all! Enjoy.
 
