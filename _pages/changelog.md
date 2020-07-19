@@ -42,6 +42,14 @@ This is our very first version of Whiteboard on the App Store. Stay tuned for ma
 
 <br>
 
+## **Version 1.0.23**
+Thanks for using Whiteboard and for all the great feedback and reviews! In this version I worked on some small behind the scenes stability improvements. Please keep the feedback coming y'all! Enjoy.
+
+#### Fixed
+* An issue with saving drawings to photos after changing the background color
+
+<br>
+
 ## **Version 1.0.22**
 Thanks for using Whiteboard and for all the great feedback and reviews! In this version I worked on some small behind the scenes stability improvements. Please keep the feedback coming y'all! Enjoy.
 
